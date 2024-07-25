@@ -15,7 +15,8 @@ This project is based on the Socket communication of the diffusion model
 Note: You need to modify the data storage path in the config.py file as well as the IP address and port of the client and server
 
 ## Result
-The left side is the generated infrared image, the middle is the visible light image (source), and the right side is the infrared image (target)
+The left side is the generated infrared image, the middle is the visible light image (source), and the right side is the infrared image (target)  
+
 ![Generate image](https://github.com/1void1/Socket-Communication-Diffusion/blob/main/result/03983.png)
 ![Source_image](https://github.com/1void1/Socket-Communication-Diffusion/blob/main/source/03983.png)
 ![Target_image](https://github.com/1void1/Socket-Communication-Diffusion/blob/main/target/03983.png)
