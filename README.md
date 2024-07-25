@@ -14,6 +14,9 @@ This project is based on the Socket communication of the diffusion model
    
 Note: You need to modify the data storage path in the config.py file as well as the IP address and port of the client and server
 
+## Result
+
+
 ## Related Resources
 Github: https://github.com/lllyasviel/ControlNet  
 Github: https://github.com/salesforce/BLIP/  
