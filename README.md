@@ -15,6 +15,9 @@ This project is based on the Socket communication of the diffusion model
 Note: You need to modify the data storage path in the config.py file as well as the IP address and port of the client and server
 
 ## Result
+![result](https://github.com/1void1/Socket-Communication-Diffusion/blob/main/result/04129.png)
+![source](https://github.com/1void1/Socket-Communication-Diffusion/blob/main/source/04129.png)
+![target](https://github.com/1void1/Socket-Communication-Diffusion/blob/main/target/04129.png)
 
 
 ## Related Resources
